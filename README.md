@@ -21,6 +21,8 @@ An adblocker for your browser (I recommend [uBlock Origin](https://chrome.google
 # Mac Software Piracy
 [www.mac-torrent-download.net](http://mac-torrent-download.net/)
 
+[cmacapps.com](https://cmacapps.com/)
+
 # PC Game Piracy
 [FitGirl Repacks](http://fitgirl-repacks.site/) - 90% of recent games, repacked into small installers.
 
