@@ -29,7 +29,7 @@ An adblocker for your browser (I recommend [uBlock Origin](https://chrome.google
 # Console Game Piracy
 
 # Music Piracy
-[Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads) - Register a free account at [deezer.com](https://deezer.com) and log in to Deezloader with it. You can now download any song on Deezer (which has basically everything) in 320kbps MP3 or FLAC (i.e. very high quality). Be sure to adjust Deezloader settings, as the default tagging is a bit weird. If you use Telegram, there is a [Deezloader Telegram Bot](https://web.telegram.org/#/im?p=@MusicHuntersBot) that can download music for you.
+[Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads) - Register a free account at [deezer.com](https://deezer.com) and log in to Deezloader with it. You can now download any song on Deezer (which has basically everything) in 320kbps MP3 or FLAC (i.e. very high quality). Be sure to adjust Deezloader settings, as the default tagging is a bit weird. If you use Telegram, there is a [Deezloader Telegram Bot](tg://resolve?domain=MusicHuntersBot) that can download music for you.
 
 Spotify - Use [BlockTheSpot](https://github.com/master131/BlockTheSpot/releases) adblocker and [version 1.0.80.474](https://www.filehorse.com/download-spotify/35027/), the last version of Spotify compatible with adblockers and with working social features.
 
