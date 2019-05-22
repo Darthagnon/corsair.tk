@@ -29,7 +29,7 @@ An adblocker for your browser (I recommend [uBlock Origin](https://chrome.google
 # Console Game Piracy
 
 # Music Piracy
-[Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads) - Register a free account at [deezer.com](https://deezer.com) and log in to Deezloader with it. You can now download any song on Deezer (which has basically everything) in 320kbps MP3 or FLAC (i.e. very high quality). Be sure to adjust Deezloader settings, as the default tagging is a bit weird.
+[Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads) - Register a free account at [deezer.com](https://deezer.com) and log in to Deezloader with it. You can now download any song on Deezer (which has basically everything) in 320kbps MP3 or FLAC (i.e. very high quality). Be sure to adjust Deezloader settings, as the default tagging is a bit weird. If you use Telegram, there is a [Deezloader Telegram Bot](https://web.telegram.org/#/im?p=@MusicHuntersBot) that can download music for you.
 
 Spotify - Use [BlockTheSpot](https://github.com/master131/BlockTheSpot/releases) adblocker and [version 1.0.80.474](https://www.filehorse.com/download-spotify/35027/), the last version of Spotify compatible with adblockers and with working social features.
 
@@ -61,3 +61,16 @@ Note: Movie streaming sites often get taken down; if one link doesn't work, try 
 [srstop.in](https://srstop.in/) - TV series only
 
 [solarmovie.to](https://solarmovie.to/)
+
+# Comics and Manga
+[MangaDex](https://mangadex.org/) - MangaDex has an excellent selection of manga in high quality. Use [Polite Manga Downloader](http://sizer99.com/pmd/) to download manga from your MangaDex Favourites list.
+
+[ReadComicsOnline.ru](https://readcomicsonline.ru/) - Read Marvel/DC comics online
+
+[GetComics.info](https://getcomics.info/) - Download Marvel/DC comics to keep for offline reading
+
+[www.ComicExtra.com](https://www.comicextra.com/) - Read Marvel/DC comics online
+
+[ReadComicOnline.to](https://readcomiconline.to/)
+
+[ComicPunch.net](https://comicpunch.net/)
