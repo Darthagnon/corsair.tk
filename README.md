@@ -1,10 +1,10 @@
 # corsair.tk
 Yar, Har, Fiddle-de-dee, Stream what you want, 'cause to pirate is free! You are a pirate!
 
-Last updated: 05/2019
+Last updated: 22/05/2019
 
 # Prerequisites
-[qBittorrent](https://www.qbittorrent.org/download.php) or its dark-mode fork, [Fresh Darkest Release](https://github.com/suratovvlad/qbittorrent-installer/releases) - the best torrent client. Torrents are a means of quickly sharing files between users. 
+[qBittorrent](https://www.qbittorrent.org/download.php) or its dark-mode fork, [Fresh Darkest Release](https://github.com/suratovvlad/qbittorrent-installer/releases) - the best torrent client. Torrents are a means of quickly sharing files between users. An alternative to "direct downloads" (i.e. regular downloads)
 
 An adblocker for your browser (I recommend [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ) - a lot of pirate sites have very dodgy ads and popups on them. Rule of thumb: don't click the big green "Download!" button. Also, if the file you download is much smaller than expected, it's a virus; delete it.
 
@@ -39,5 +39,25 @@ Spotify - Use [BlockTheSpot](https://github.com/master131/BlockTheSpot/releases)
 
 [Internet Download Manager](https://karanpc.com/idm-latest/) - Download any web content easily
 
+[snahp.it](https://snahp.it/) - direct download movies/TV series to watch offline
+
 # Movie Streaming
-[hdo.to](www.hdo.to)
+Note: Movie streaming sites often get taken down; if one link doesn't work, try the next.
+
+[hdo.to](https://hdo.to/)
+
+[www3.hdonline.eu/hdo](https://www3.hdonline.eu/hdo/)
+
+[lookmovie.ag](https://lookmovie.ag)
+
+[cafehulu.com](http://cafehulu.com/)
+
+[www3.1movies.is/1movies-1](https://www3.1movies.is/1movies-1)
+
+[www1.sockshare.video](http://www1.sockshare.video/)
+
+[123moviess.to/123movies.html](https://123moviess.to/123movies.html)
+
+[srstop.in](https://srstop.in/) - TV series only
+
+[solarmovie.to](https://solarmovie.to/)
